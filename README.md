@@ -1,0 +1,1 @@
+this is where I learn and practice going through the steps of the data science pipeline applying linear regression.
